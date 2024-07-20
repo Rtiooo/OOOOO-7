@@ -1,0 +1,24 @@
+"columnNumber": 17,
+		"era": "Future era",
+		"techCost": 9500,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Ayam tetelo",
+				"row": 7,
+				"prerequisites": ["Globalization","Nuclear Fusion","Nanotechnology"],
+                "uniques": ["Ya 100000%"],
+                "quote": "'What?",
+                "civilopediaText": [{"text": "Who knows what the future holds? kenapa Ayam tetelo"}]
+			},
+      {
+				"name": "Future Tech",
+				"row": 7,
+				"prerequisites": ["Ayam tetelo"],
+                "uniques": ["Can be continually researched"],
+                "quote": "'I think we agree, the past is over.' - George W. Bush",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+      }
+		]
+}
