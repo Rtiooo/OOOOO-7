@@ -1,7 +1,7 @@
 [
 {
 		"name": "China",
-		"leaderName": "Wu Zetian",
+		"leaderName": "Xi Jinping",
 		"adjective": ["Chinese"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Wu Zetian",
@@ -17,8 +17,8 @@
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-        "outerColor": [9, 112, 84],
-        "innerColor": [255,255,255],
+        "outerColor": [255, 0, 0],
+        "innerColor": [255,255,0],
 
 		"favoredReligion": "Taoism",
 		"uniqueName": "Art of War",
