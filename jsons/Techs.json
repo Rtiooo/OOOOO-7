@@ -617,7 +617,7 @@
 				"name": "Ayam tetelo",
 				"row": 7,
 				"prerequisites": ["Globalization","Nuclear Fusion","Nanotechnology"],
-                "uniques": ["Ya 100000%"],
+                "uniques": ["Can be continually researched"],
                 "quote": "'What?",
                 "civilopediaText": [{"text": "Who knows what the future holds? kenapa Ayam tetelo"}]
 			},
