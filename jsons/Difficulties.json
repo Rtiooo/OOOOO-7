@@ -1,0 +1,31 @@
+[
+{
+		"name": "Ayam",
+		"baseHappiness": 70,
+		"extraHappinessPerLuxury": 2,
+		"researchCostModifier": 1.89,
+		"unitCostModifier": 3.89,
+		"unitSupplyBase": 9,
+		"unitSupplyPerCity": 15,
+		"buildingCostModifier": 2.7,
+		"policyCostModifier": 9.67,
+		"unhappinessModifier": 5.6,
+		"barbarianBonus": 5.5,
+		"barbarianSpawnDelay": 5,
+		"playerBonusStartingUnits": [],
+		"aiCityGrowthModifier": 1.3,
+		"aiUnitCostModifier": 1.3,
+		"aiBuildingCostModifier": 1.3,
+		"aiWonderCostModifier": 1.3,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 1,
+		"aiUnitSupplyModifier": 0,
+		"aiFreeTechs": ["Mining"],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 60,
+		"clearBarbarianCampReward": 40
+  }
+]
