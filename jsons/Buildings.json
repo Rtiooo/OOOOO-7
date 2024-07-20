@@ -1,1 +1,3 @@
-{ "name": "ggg", "isNationalWonder": true, "cost": 6, "uniques": ["103"]
+[
+{ "name": "ggg", "isNationalWonder": true, "cost": 23, "uniques": ["[Great General] is earned [200]% faster"] }
+  ]
